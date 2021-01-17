@@ -1,4 +1,4 @@
-# The Pasta License :spaghetti:
+# The Spaghetti License :spaghetti:
 
 ## Introduction
 
