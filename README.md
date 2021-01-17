@@ -18,7 +18,7 @@ Thus, the [Spaghetti license](LICENSE) was born.
 
 Just copy the [`LICENSE`](LICENSE) file into your project's root folder, fill the placeholders and push.
 
-[![Spaghetti License :coffee:](https://img.shields.io/badge/license-Spaghetti%20☕-7890F0.svg)](https://github.com/Steepo/spaghetti-license)
+[![Spaghetti License :coffee:](https://img.shields.io/badge/license-Spaghetti%F0%9F%8D%9D-yellow)](https://github.com/Steepo/spaghetti-license)
 
 Following [MakeNowJust](https://github.com/MakeNowJust)'s footsteps I also created this nice badge (a fascinating process indeed...) you can include in your documentation or `README.md`, by copying the following:
 
